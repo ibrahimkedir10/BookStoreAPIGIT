@@ -1,2 +1,2 @@
-# BookStoreAPIGIT
-REST API using .NET 5 and C#
+# BookStoreAPI
+Bookstore | Using ASP.NET Core 5.0 and MongoDB

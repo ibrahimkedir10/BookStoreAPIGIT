@@ -1,15 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "pC6+JVpodJJ75X56QxtQ4dLr1KbwJ/Mu8vBmzfURaLhwnrpRgiU5Ue6K/tp1X8RIUMmAgrXBEVflqmXAvvXAxw==",
+  "dgSpecHash": "bRFbby/g1TbE7S9ZKi6A3s8eJKiDvkHd/7z7mjuz+hDj2dt0ayhos/z4Znk6E83QerjMSIxSRsJF6oCyBI9jYg==",
   "success": true,
   "projectFilePath": "C:\\Users\\ibrahim kedir\\Documents\\ALL CODE\\BookStoreApi\\Bookstore.WebApi\\Bookstore.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ibrahim kedir\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\ibrahim kedir\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ibrahim kedir\\.nuget\\packages\\mongodb.bson\\2.21.0\\mongodb.bson.2.21.0.nupkg.sha512",
     "C:\\Users\\ibrahim kedir\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\ibrahim kedir\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "C:\\Users\\ibrahim kedir\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
-    "C:\\Users\\ibrahim kedir\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+    "C:\\Users\\ibrahim kedir\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\ibrahim kedir\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\ibrahim kedir\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
