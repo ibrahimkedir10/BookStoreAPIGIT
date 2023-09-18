@@ -1,0 +1,12 @@
+C:\Users\ibrahim kedir\Documents\ALL CODE\BookStoreApi\BookStore1.Core\bin\Debug\net5.0\BookStore1.Core.deps.json
+C:\Users\ibrahim kedir\Documents\ALL CODE\BookStoreApi\BookStore1.Core\bin\Debug\net5.0\BookStore1.Core.dll
+C:\Users\ibrahim kedir\Documents\ALL CODE\BookStoreApi\BookStore1.Core\bin\Debug\net5.0\BookStore1.Core.pdb
+C:\Users\ibrahim kedir\Documents\ALL CODE\BookStoreApi\BookStore1.Core\obj\Debug\net5.0\BookStore1.Core.csproj.AssemblyReference.cache
+C:\Users\ibrahim kedir\Documents\ALL CODE\BookStoreApi\BookStore1.Core\obj\Debug\net5.0\BookStore1.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahim kedir\Documents\ALL CODE\BookStoreApi\BookStore1.Core\obj\Debug\net5.0\BookStore1.Core.AssemblyInfoInputs.cache
+C:\Users\ibrahim kedir\Documents\ALL CODE\BookStoreApi\BookStore1.Core\obj\Debug\net5.0\BookStore1.Core.AssemblyInfo.cs
+C:\Users\ibrahim kedir\Documents\ALL CODE\BookStoreApi\BookStore1.Core\obj\Debug\net5.0\BookStore1.Core.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim kedir\Documents\ALL CODE\BookStoreApi\BookStore1.Core\obj\Debug\net5.0\BookStore1.Core.dll
+C:\Users\ibrahim kedir\Documents\ALL CODE\BookStoreApi\BookStore1.Core\obj\Debug\net5.0\refint\BookStore1.Core.dll
+C:\Users\ibrahim kedir\Documents\ALL CODE\BookStoreApi\BookStore1.Core\obj\Debug\net5.0\BookStore1.Core.pdb
+C:\Users\ibrahim kedir\Documents\ALL CODE\BookStoreApi\BookStore1.Core\obj\Debug\net5.0\ref\BookStore1.Core.dll

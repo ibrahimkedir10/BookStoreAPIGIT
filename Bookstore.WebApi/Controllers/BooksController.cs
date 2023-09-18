@@ -1,4 +1,4 @@
-﻿using BookStore.core;
+﻿using BookStore1.core;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -22,6 +22,11 @@ namespace Bookstore.WebApi.Controllers
         public IActionResult GetBooks() 
         {
             return Ok(_bookServices.GetBooks());
+        }
+        [HttpPost]
+        public IActionResult AddBook(Book book) {
+            _bookServices.AddBook(book);
+            return Ok(book);
         }
     }
 }
